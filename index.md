@@ -3,3 +3,9 @@
 Added header
 
 ![This is an im=mage of a squid](./squid.jpg)
+
+```python
+# This program prints Hello, world!
+
+print('Hello, world!')
+```
