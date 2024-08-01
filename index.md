@@ -9,3 +9,8 @@ Added header
 
 print('Hello, world!')
 ```
+## Tasks for today
+
+- [ ] complete this trining
+- [ ] complete next training
+- [ ] attend meetings
